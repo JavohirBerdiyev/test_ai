@@ -1,0 +1,25 @@
+.header {
+  background-image: url('https://cdn.pixabay.com/photo/2022/09/21/17/02/blue-background-7470781_640.jpg');
+  background-size: cover;
+  color: white;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.header-content h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.header-content p {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.contact-us {
+  background-color: #ff6600;
+  color: white;
+  border: none;
+  padding: 0.75rem 2rem;
+  cursor: pointer;
+}

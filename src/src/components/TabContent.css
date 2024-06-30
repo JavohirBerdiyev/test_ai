@@ -1,0 +1,26 @@
+.content {
+  background-color: #0033cc;
+  color: white;
+  padding: 20px;
+  border-radius: 15px;
+  text-align: left;
+  max-width: 600px;
+}
+
+.content h2 {
+  margin-top: 0;
+}
+
+.instruction-button {
+  background-color: #4d94ff;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.instruction-button:hover {
+  background-color: #337ab7;
+}
